@@ -4,3 +4,4 @@ models/iResNet50_2048z_512ch/DS_WT/iResNet_50_DSWT_actNormTrue_priorTrue_elu_coe
 models/ResNeXt50/DS_TT/ResNext50_10Epochs_on_224px.pt
 models/iResNet50_2048z_512ch/DS_TT/iResNet_50_imageNet100_small_to_DSTT_2048z_actNormTrue_priorTrue_elu.pt
 models/ResNeXt50/DS_WT/ResNext50_Acc98_BS15_LR0.0005.pt
+presentation/BA_Verteidigung.pptx
